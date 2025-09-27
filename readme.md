@@ -10,7 +10,7 @@ This repository contains an **n8n workflow** that automates website security aud
 ---
 ## Architecture
 
-![Architecture Diagram](images/artitectrue.png)
+![Architecture Diagram](images/architecture.png)
 
 ## 🚀 Workflow Overview
 
