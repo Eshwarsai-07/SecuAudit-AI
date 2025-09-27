@@ -8,6 +8,9 @@ This repository contains an **n8n workflow** that automates website security aud
 - 📧 Automated **email reporting** via Gmail  
 
 ---
+## Architecture
+
+![Architecture Diagram](images/artitectrue.png)
 
 ## 🚀 Workflow Overview
 
